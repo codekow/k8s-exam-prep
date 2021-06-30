@@ -22,3 +22,4 @@ alias kdr='kubectl -n $ns -o yaml --dry-run=client'
 ## Links
 
 * https://github.com/dgkanatsios/CKAD-exercises
+* https://kubernetes.io/docs/reference/kubectl/cheatsheet
