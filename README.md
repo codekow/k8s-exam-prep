@@ -1,25 +1,9 @@
-# Notes for CKAD Exam
+<p align="center">
+  <img height="100" title="Kubernetes Logo" src="media/k8s_logo.svg">
+</p>
 
-Below are a list of notes for preparing for the CKAD.
+This repository contains resources for learning Kubernetes, with a focus on passing the [The Cloud Native Computing Foundation Certifications](https://www.cncf.io/certification).
 
-## Files
-
-`~/.vimrc`
-```
-set nu
-set expandtab
-set shiftwidth=2
-set tabstop=2
-```
-
-`~/aliases`
-```
-export ns=default
-alias k='kubectl -n $ns'
-alias kdr='kubectl -n $ns -o yaml --dry-run=client'
-```
-
-## Links
-
-* https://github.com/dgkanatsios/CKAD-exercises
-* https://kubernetes.io/docs/reference/kubectl/cheatsheet
+## Table Of Contents
+- [Kubernetes Cluster Quickstart](docs/k8s_quickstart.md)
+- [Exam Tips / Useful Kubernetes Links and Commands](docs/k8s_files_links.md)
