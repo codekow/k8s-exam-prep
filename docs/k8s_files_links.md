@@ -23,5 +23,6 @@ complete -F __start_kubectl k
 
 ## Links
 
-* https://github.com/dgkanatsios/CKAD-exercises
-* https://kubernetes.io/docs/reference/kubectl/cheatsheet
+* [CKAD exercises](https://github.com/dgkanatsios/CKAD-exercises)
+* [ Kubernetes Cheatsheet (offical docs)](https://kubernetes.io/docs/reference/kubectl/cheatsheet)
+* [Michael Ford's k8s Study Resources](https://github.com/michaelford85/kubernetes-study-resources)
